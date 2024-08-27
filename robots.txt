@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cuteradi.github.io/sitemap.html.gz
+Sitemap: https://cuteradi.github.io/app/sitemap.html.gz
+Sitemap: https://cuteradi.github.io/assets/sitemap.html.gz
+Sitemap: https://cuteradi.github.io/css/sitemap.html.gz
+Sitemap: https://cuteradi.github.io/includes/sitemap.html.gz
+Sitemap: https://cuteradi.github.io/item/sitemap.html.gz
+Sitemap: https://cuteradi.github.io/src/sitemap.html.gz
